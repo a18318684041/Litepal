@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+<!-- dbname的内容代表了数据库的名字，version表示数据库的版本号-->
+    <dbname value="demo" ></dbname>
+
+    <version value="1" ></version>
+
+    <list>
+        <mapping class="com.example.administrator.test_litepal.info"></mapping>
+    </list>
+</litepal>
